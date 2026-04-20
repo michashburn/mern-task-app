@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div style={{ padding: 20 }}>
-      <h1>Task App - DevSecOps Demo</h1>
+      <h1>DEVSECOPS Demo MichApp</h1>
 
       <input
         value={task}
